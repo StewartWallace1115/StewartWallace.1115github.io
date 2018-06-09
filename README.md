@@ -1,2 +1,2 @@
-# StewartWallace.1115github.io
+# StewartWallace1115.github.io
 Personal website 
