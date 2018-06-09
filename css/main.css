@@ -1,0 +1,221 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, 
+code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+#section_one {
+	background: linear-gradient(90deg, #54161f , red); 
+	height: 800px;
+	width: 100%;
+	color: white;
+	padding: 0px;
+	margin: 0px;
+	font-style: Arial;
+}
+
+h1, h2, p , hr{
+	margin-left: 10%;
+}
+
+h1 {
+	font-size: 44px;
+}
+
+#introduction, #title {
+	padding-top: 10%;
+	font-size: 32px;
+}
+
+#developer_header {
+	padding-top: 10%;
+}
+
+hr {
+	width: 20px;
+}
+
+#section_two {
+	height: 450px;
+	font-size: 25px;
+	padding-top: 50px;
+	line-height: 2;
+}
+
+#about_title {
+	color: #800000;
+}
+
+#about_text {
+	margin-bottom: 25px;
+}
+#section_three {
+	background: linear-gradient(-270deg, #54161f , red); 
+	color: white;
+	font-style: Arial;
+	height: 550px;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+#section_four {
+	height: 500px;
+}
+
+#education_awards_title {
+	font-family: "Arial";
+	color: #800000;
+}
+
+#education_line {
+	padding: 20px 0 20px 0;
+	width: 400px;
+}
+
+#section_five {
+	background: linear-gradient(-270deg, #54161f , red);
+	height: 500px;
+	color: white;
+
+}
+
+#section_six {
+	height: 800px;
+}
+
+#section_seven {
+	height: 500px;
+}
+
+#section_six h1 {
+	margin-top: 1%;
+}
+.work {
+	border: solid black 1px;
+	padding:0px;
+	line-height: 1.5;
+	margin-left: 10%;
+	margin-top: 1%;
+	text-align: left;
+	width: 50%;
+}
+
+.work p, .work h2, .item h2, .item p{
+	margin: 0px;
+}
+
+.first_tag {
+	margin-left: 10%
+}
+.technical_tag {
+  border: 1px solid #ddd;
+  display: inline-block;
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-size: 14px;
+  color: white;
+}
+
+.progress_container {
+  margin-left: 10%;
+  margin-top: 1%;
+  width: 50%;
+  background-color: #ddd;
+}
+
+#section_six h2{
+	margin-top: 1%;
+	font-size: 24pt;
+}
+
+.progress_bar {
+  width: 1%;
+  height: 20px;
+  background-color: #54161f;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#section_seven {
+	background: linear-gradient(-270deg, #54161f , red);
+}
+
+.item {
+	padding:0px;
+	line-height: 1.5;
+	margin-left: 10%;
+	margin-top: 1%;
+	text-align: left;
+	width: 50%;
+}
+
+
+#awards_title {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#awards p {
+	line-height: 2;
+}
+
+img {
+	margin-top: 5%;
+	margin-left: 25%;
+}
+
+.animal_shelter1_tags:before {
+	background-color: blue;
+}
+
+.project {
+	margin-top: 1%;
+	font-size: 20px;
+}
+
+.project h2{
+		font-size: 24px;
+
+}
+
+.link_informaion {
+	color: white;
+}
+
+#section_eight {
+	height: 800px;
+}
+
+#section_height img {
+	display: block;
+	width: 50%;
+}
+
+#social_icons img {
+	margin: 0px;
+}
+
+#facebook {
+	margin-left: 10%;
+}
+
+#resume {
+	color: black;
+}
+
+#section_eight p{
+	font-size: 26pt;
+	line-height: 1.5;
+	margin-top: 1%;
+}
+
+#contact_heading {
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
